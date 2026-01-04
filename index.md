@@ -184,7 +184,7 @@ then inference runs *backwards*:
 $$
 P(E, A, C \mid \text{UX})
 \propto
-P(\text{UX} \mid E, A, C); P(E, A, C)
+P(\text{UX} \mid E, A, C) P(E, A, C)
 $$
 
 Ethics is not asserted.
