@@ -604,7 +604,7 @@ Consider these extensions:
 
 3. **Empirical validation** - Simulate authentic vs. synthetic trajectories to derive deception scores. Partner with neuroimaging studies to ground the stack in empirical data.
 
-4. **Formalize pathological attractors** - Derive conditions when P(E,A,C|T) becomes non-identifiable or converges to overfitted minima (addiction spirals, ideological capture).
+4. **Formalize pathological attractors** - Derive conditions when $P(E,A,C\mid T)$ becomes non-identifiable or converges to overfitted minima (addiction spirals, ideological capture).
 
 The framework's power lies in its geometric rigor: enforce the math, and the ethics follows. It makes contemporary identity infrastructure look like security theater by treating identity not as something you *have*, but as something you *continuously re-derive through embodied perturbation*.
 
