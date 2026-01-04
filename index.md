@@ -35,9 +35,9 @@ Our core insight is that identity is not declared, authenticated, or narrated—
   The claim surface. Signals enter here as embodied assertions requiring routing, not belief.
 
 * **[Prefrontal Cortex](https://ukb-dt.github.io/mcgilchrist-YY/) (Mind / Validate)**
-  Constraint satisfaction. Local coherence, decision validation, and executive gating.
+  [Constraint satisfaction](https://ukb-dt.github.io/dt/). Local coherence, decision validation, and executive gating.
 
-* **[Default Mode Network](https://ukb-dt.github.io/mcgilchrist-ZZ/) (Invariant / Rigor / Adversarial)**
+* **[Default Mode Network](https://ukb-dt.github.io/mcgilchrist-ZZ/) (Invariant / Rigor / Adversarial)**    
   The adversary. Identity stress-testing, counterfactuals, and invariance detection.
 
 * **Hippocampus (Credibility / Path-Dependence / Longitudinal UX)**
