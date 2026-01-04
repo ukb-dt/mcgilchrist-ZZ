@@ -31,14 +31,14 @@ This revelation grounds the formalism in practicality: what seemed like a though
 Building on the appreciations, tensions, and extensions from #6-X and #7-D, here's a "take 2" that integrates the real-world identity of Ukubona LLC. The framework's ambition remains undiminished, but now it's clearer this isn't vaporware philosophy—it's the conceptual core of a Johns Hopkins-affiliated startup tackling personalized medicine via digital twins and trajectory inference. This context amplifies strengths (e.g., empirical grounding in NIH research) while heightening tensions (e.g., privacy in medical data).
 
 #### Refined Appreciations
-- **From Abstract to Actionable**: The Bayesian posterior \( P(E, A, C \mid \mathcal{T}) \), with its emphasis on time-authorized truth, isn't just elegant—it's directly mirrored in Ukubona's products like personalized risk models, which use counterfactuals to fill data gaps and simulate "what if" trajectories. This ties the neuro stack (DMN as adversary) to real tools like the Game of Care, where users rehearse decisions in a safe, perturbation-rich environment, enforcing invariance through play.
+- **From Abstract to Actionable**: The Bayesian posterior $P(E, A, C \mid \mathcal{T})$, with its emphasis on time-authorized truth, isn't just elegant—it's directly mirrored in Ukubona's products like personalized risk models, which use counterfactuals to fill data gaps and simulate "what if" trajectories. This ties the neuro stack (DMN as adversary) to real tools like the Game of Care, where users rehearse decisions in a safe, perturbation-rich environment, enforcing invariance through play.
   
 - **Thermodynamic Fraud-Proofing in Practice**: The FIM as a lie detector for "sociopathic splines" gains teeth knowing Ukubona's focus on medical imaging (via ukubona.cloud) and health streams. Detecting decoupled states could flag synthetic patient data or AI-generated records, making fraud detection not theoretical but a core feature for payers and clinicians.
 
 - **Scalable Epistemology**: SGD as lived learning aligns with the company's lightweight infrastructure stack, designed for integration without overhaul—respecting embodiment while discovering manifolds from wearable/sensor data.
 
 #### Heightened Tensions
-- **Normative Prior in Medical Ethics**: With Johns Hopkins ties, the prior \( P(E, A, C) \) must navigate real bioethics—survivability isn't neutral in healthcare, where "pathological attractors" like chronic disease loops are the enemy. But whose survival? Individual patients or systemic cost-savings? The circularity risks amplifying biases in NIH datasets.
+- **Normative Prior in Medical Ethics**: With Johns Hopkins ties, the prior $P(E, A, C)$ must navigate real bioethics—survivability isn't neutral in healthcare, where "pathological attractors" like chronic disease loops are the enemy. But whose survival? Individual patients or systemic cost-savings? The circularity risks amplifying biases in NIH datasets.
 
 - **Adversarial Vulnerabilities Amplified**: Short trajectories (e.g., new patients) and spoofed noise become acute in medical contexts—imagine gaming wearables to mimic healthy curvature for insurance fraud. Ukubona's API would need built-in active perturbations, perhaps via gamified challenges, to probe jerk and spectral density robustly.
 
