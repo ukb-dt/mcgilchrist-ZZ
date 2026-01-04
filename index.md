@@ -28,7 +28,7 @@ Our core insight is that identity is not declared, authenticated, or narrated—
 
 ### Neurocomputational Stack (A Priori → Audit)
 
-* **[Thalamocortical](https://ukb-dt.github.io/mcgilchrist-00/) (A Priori)**
+* **[Corticothalamic](https://ukb-dt.github.io/mcgilchrist-00/) (A Priori)**
   The routing layer. What *can* be perceived, acted upon, or even rendered computable.
 
 * **[Thalamus](https://ukb-dt.github.io/mcgilchrist-XX/) (Body / Claim / Audit)**
