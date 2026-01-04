@@ -110,7 +110,7 @@ Then the joint *posteriori* is
 $$
 P(E, A, C \mid \mathcal{T})
 \propto
-P(\mathcal{T} \mid E, A, C); P(E, A, C)
+P(\mathcal{T} \mid E, A, C) P(E, A, C)
 $$
 
 Interpretation:
@@ -243,7 +243,7 @@ Instead of evaluating trajectories, the system evaluates **invariants of traject
 Introduce a sufficient statistic:
 
 $$
-\Phi(\mathcal{T}) ;;=;; \text{curvature},\ \text{stability},\ \text{energy flow},\ \text{constraint violations}
+\Phi(\mathcal{T}) = \text{curvature},\ \text{stability},\ \text{energy flow},\ \text{constraint violations}
 $$
 
 Then:
