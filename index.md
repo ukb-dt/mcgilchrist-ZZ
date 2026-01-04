@@ -209,7 +209,7 @@ Let me tighten it formally and show why the system *must* become geometric / var
 
 ---
 
-## 1. Why (P(\mathcal{T}\mid E,A,C)) explodes combinatorially
+## 1. Why $P(\mathcal{T}\mid E,A,C)$ explodes combinatorially
 
 The trajectory
 $$
