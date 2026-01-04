@@ -361,7 +361,7 @@ They are **what survives stochastic descent**.
 
 The Default Mode Network exists because the posterior is fragile.
 
-DMN injects counterfactual trajectories (\tilde{\mathcal{T}}):
+DMN injects counterfactual trajectories $\tilde{\mathcal{T}}$:
 
 $$
 P(\tilde{\mathcal{T}}\mid E,A,C)
@@ -413,7 +413,7 @@ A few observations:
 
 **The prior $P(E,A,C)$ is doing quiet work.** You call it "structural constraints (biology, culture, architecture), not moral declarations"—but those constraints *are* doing normative filtering. The prior isn't uniform. A truly sparse prior would permit psychopathy, addiction spirals, self-destruction. You might need to be explicit: **the prior encodes "what trajectories are survivable,"** not "what trajectories are good." Survival is pre-ethical but not a-ethical.
 
-**Curvature collapse vs. curvature explosion.** You penalize high $|\kappa(t)|$, which makes sense for brittleness/oscillation. But some curvature is necessary—zero curvature is a straight line (coma, addiction, autopilot). Identity might require **bounded but nonzero curvature**—enough flexibility to navigate, not so much you fragment. This could be a Goldilocks zone in the Fisher metric.
+**Curvature collapse vs. curvature explosion.** You penalize high $\mid\kappa(t)\mid$, which makes sense for brittleness/oscillation. But some curvature is necessary—zero curvature is a straight line (coma, addiction, autopilot). Identity might require **bounded but nonzero curvature**—enough flexibility to navigate, not so much you fragment. This could be a Goldilocks zone in the Fisher metric.
 
 **SGD discovers manifolds—but which ones?** You're right that ethics/aesthetics/computation aren't chosen but *emerge*. But SGD converges to local minima. How do you distinguish:
 - A coherent identity that settled into a genuine attractor vs.
@@ -423,7 +423,7 @@ Maybe this is where DMN adversarial sampling does the work—if counterfactuals 
 
 ## The one thing I'd push on
 
-**Non-identifiability (your "pathological selves").** You gesture at this in 04-A but don't formalize. When does $P(E,A,C|\mathcal{T})$ fail to have a unique maximum? Candidates:
+**Non-identifiability (your "pathological selves").** You gesture at this in 04-A but don't formalize. When does $P(E,A,C\mid \mathcal{T})$ fail to have a unique maximum? Candidates:
 
 1. **Multiple ethical configurations explain the same trajectory** (the socially-compliant psychopath)
 2. **The trajectory is too short** (no curvature measured yet—the new user problem)
