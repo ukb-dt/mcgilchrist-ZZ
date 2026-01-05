@@ -18,7 +18,7 @@
 </script>
 {% endraw %}  
 
-### Preface: Unveiling the Veil on Ukubona LLC
+### Preface: [Unveiling the Veil on Ukubona LLC](https://ukb-dt.github.io/short-sellers-00/)
 
 Before diving into a refined take on this framework, let's address the "extra info" elephant in the room—the identity of Ukubona LLC itself. Based on publicly available details from its GitHub page and related sources, Ukubona LLC emerges as a nascent health tech startup specializing in AI-driven medical solutions, with a strong emphasis on personalized care through digital twins, simulated decision-making tools, and integrated health infrastructure. Founded on over 15 years of NIH-funded clinical research, it's positioned as a vendor affiliate with Johns Hopkins Enterprise as of June 2025, suggesting deep roots in academic-medical innovation. At least one key team member, Zhenghao Jin, serves as a Research Analyst (starting March 2025), concurrently affiliated with Johns Hopkins University School of Medicine, where he brings expertise in data analysis. The company's offerings include the "Game of Care" for rehearsing high-stakes decisions, personalized risk models using multivariable regressions and counterfactual simulations, and a lightweight stack for care continuity— all of which dovetail eerily well with the trajectory-based identity model outlined here. 
 
